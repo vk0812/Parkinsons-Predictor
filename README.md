@@ -8,3 +8,5 @@ Algorithm used for the prediction is [**XGBoost**](https://xgboost.readthedocs.i
 An accuracy of `94.871%` was acheived without much Data Processing.
 
 But an accuracy of `98.305%` was acheived after Over Sampling our data using [**imbalanced-learn**](https://imbalanced-learn.org/stable/) library.
+
+Using **ANN in Keras** the model acheived an accuracy of `96.61%`
